@@ -81,6 +81,7 @@ Evaluated on the held-out 20% test partition, the pipeline achieved the followin
 ### Installation
 
 * Clone the Repository
+* Create `./data` and `./model` folders in main directory
 * Setup Docker Environment
 * Proceed to Training phase
 
